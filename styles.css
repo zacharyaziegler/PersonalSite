@@ -1,0 +1,187 @@
+/* Entire Doc */
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body {
+  background-color: #2d545e;
+  text-align: center;
+}
+
+
+
+/* Heading */
+
+#name-h1 {
+  font-size: 4rem;
+  font-family: 'Varela Round', sans-serif;
+  color: #c89666;
+  margin-top: 4rem;
+  margin-bottom: 3rem;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+#heading {
+  background-image: url("images/stars.png");
+
+}
+
+.header-hr {
+  color: #c89666;
+}
+
+.quick-jump {
+  color: #c89666;
+  font-size: 2rem;
+  margin-top: 3rem;
+  font-family: 'Varela Round', sans-serif;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+.heading-row {
+  margin-bottom: 15rem;
+}
+
+
+
+/* About */
+#about {
+  background-color: #e1b382;
+}
+
+#about-h2 {
+  color: #12343b;
+  margin: 2rem;
+  font-family: 'Varela Round', sans-serif;
+}
+
+.about-p {
+  color: #12343b;
+  text-align: center;
+  font-family: 'Barlow', sans-serif;
+  width: 20rem;
+  margin: auto;
+}
+
+
+
+/* My Skills */
+.skill-desc {
+  font-family: 'Barlow', sans-serif;
+}
+
+#skills-h2 {
+  margin: 2rem;
+  color: #c89666;
+  font-family: 'Varela Round', sans-serif;
+}
+
+li {
+  color: #c89666;
+}
+
+
+
+/* Work Experience */
+#work-experience {
+  background-color: #e1b384;
+  padding-bottom: 2rem;
+}
+
+.job-title {
+  color: #12343b;
+  font-family: 'Varela Round', sans-serif;
+}
+
+.job-desc {
+  width: 75%;
+  margin: auto;
+  color: #12343b;
+  font-family: 'Barlow', sans-serif;
+}
+
+#work-h2 {
+  color: #12343b;
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+  position: relative;
+  top: 2rem;
+  font-family: 'Varela Round', sans-serif;
+}
+
+
+
+/* Contact Me */
+#contact-h2 {
+  color: #c89666;
+  margin: 2rem;
+  font-family: 'Varela Round', sans-serif;
+}
+
+.contact-info {
+  color: #c89666;
+  font-family: 'Barlow', sans-serif;
+}
+
+
+
+/* Pictures */
+.self-pic {
+  text-align: center;
+  position: relative;
+  bottom: 10rem;
+  width: 25%;
+}
+
+.cactus-pic1 {
+  width: 12%;
+  height: 12%;
+  position: relative;
+  bottom: 3rem;
+  right: 12rem;
+}
+
+.cactus-pic2 {
+  width: 8%;
+  height: 8%;
+  transform: scaleX(-1);
+  position: relative;
+  bottom: 12rem;
+  left: 14rem;
+}
+
+.tumbleweed-pic {
+  width: 7%;
+  height: 7%;
+  position: relative;
+  left: 1rem;
+}
+
+.java-pic {
+  width:20%;
+}
+
+.html-pic {
+  width:35%;
+}
+
+.javascript-pic {
+  width: 40%;
+  margin-top: 1rem;
+}
+
+.dish-pic {
+  width: 30%;
+  margin-top: 1rem;
+}
+
+.bbb-pic {
+  width: 40%;
+}
+
+.about-container {
+  text-align: center;
+  padding-bottom: 3rem;
+  padding-top: 1rem;
+}
